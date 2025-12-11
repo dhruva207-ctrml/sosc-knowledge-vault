@@ -1,0 +1,126 @@
+
+C:\Users\Dhruv Pc\Desktop\sosc-knowledge-vault>gcc knowledge_vault.c -o vault
+
+C:\Users\Dhruv Pc\Desktop\sosc-knowledge-vault>vault
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 1
+Enter title: dh
+Enter content (single line): he is a good boy
+Note saved.
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 1
+Enter title: gu
+Enter content (single line): he is also a good boy
+Note saved.
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 2
+TITLE:gau
+CONTENT:gaurav is actually not a good boy
+---
+TITLE:dh
+CONTENT:he is a good boy
+---
+TITLE:gu
+CONTENT:he is also a good boy
+---
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 3
+Enter title to search: gu
+
+FOUND NOTE:
+TITLE: gu
+CONTENT:he is also a good boy
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 4
+Enter title to edit: gu
+Enter new content: actually is not a good boy
+Note updated.
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 2
+TITLE:gau
+CONTENT:gaurav is actually not a good boy
+---
+TITLE:dh
+CONTENT:he is a good boy
+---
+TITLE:gu
+CONTENT:actually is not a good boy
+---
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 5
+Enter title to delete: gu
+Note deleted.
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 2
+TITLE:gau
+CONTENT:gaurav is actually not a good boy
+---
+TITLE:dh
+CONTENT:he is a good boy
+---
+
+--- Personal Knowledge Vault ---
+1. Create note
+2. View all notes
+3. Search note
+4. Edit note
+5. Delete note
+6. Exit
+Enter choice: 6
+Goodbye!
